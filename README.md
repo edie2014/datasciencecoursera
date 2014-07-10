@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-First course project - Data Scientist's Toolbox
+This is my first course project for Data Scientist's Toolbox.
